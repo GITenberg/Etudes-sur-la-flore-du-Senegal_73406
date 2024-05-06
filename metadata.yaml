@@ -1,0 +1,35 @@
+_repo: Etudes-sur-la-flore-du-Senegal_73406
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vallot, Joseph
+    birthdate: 1854
+    deathdate: 1925
+    gutenberg_agent_id: '57061'
+    url: http://www.gutenberg.org/2009/agents/57061
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Joseph_Vallot
+    - https://fr.wikipedia.org/wiki/Joseph_Vallot
+description: '"Extrait du Bulletin de la Société botanique de France. Tome XXIX, Séance
+  du 12 mai 1882."'
+gutenberg_issued: '2024-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73406'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9678510s
+pgterms:marc905: 20240404001009vallot
+pgterms:marc906: '1883'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the Bibliothèque nationale de France/Gallica)
+publication_note: '  $aParis :$bJacques Lechevalier, $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants -- Senegal'
+- !lcc 'QK'
+- GITenberg
+title: Études sur la flore du Sénégal
+url: http://www.gutenberg.org/ebooks/73406
